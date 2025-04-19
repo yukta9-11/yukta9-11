@@ -18,14 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yukta9-11&show_icons=true&theme=default" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukta9-11&layout=compact&theme=default" />
-</p>
-
----
 
 ## 📱 Projects
 
