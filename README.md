@@ -1,33 +1,45 @@
 # 👋 Hi, I'm Yukta Bhartia
 
-🎓 Master's in Information Systems Management @ Carnegie Mellon University  
-💻 Former Software Engineer @ Tata Consultancy Services  
-🌐 Passionate about building scalable backend systems, cloud-native apps & AI/ML-powered products  
+🎓 Graduate Student in Information Systems Management @ Carnegie Mellon University  
+💼 3+ years as a Backend Software Engineer @ Tata Consultancy Services  
+🚀 Passionate about building scalable backend systems, distributed architectures, and AI/ML-powered applications  
+🌍 Open to SDE and backend engineering roles — let's connect!
 
 ---
 
-## 🚀 Tech Stack
+## 🔧 Tech Stack
+
 **Languages:** Java, Python, SQL, C  
 **Frameworks:** Spring Boot, Flask, JUnit, Mockito  
-**Tools & DevOps:** Docker, AWS, Jenkins, GitHub Actions, Kafka, Prometheus, Grafana  
-**Data & ML:** Pandas, NumPy, Scikit-Learn, PyTorch  
-**Databases:** MongoDB, MySQL  
+**Cloud & DevOps:** AWS, Docker, Jenkins, Git, GitHub Actions, Kafka, Prometheus, Grafana  
+**Database:** MySQL, MongoDB  
+**Concepts:** REST APIs, Microservices, CI/CD, Distributed Systems, Agile  
+**AI/ML:** PyTorch, Deep Learning, Neural Networks, A/B Testing  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuktabhartia&show_icons=true&hide_border=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktabhartia&layout=compact&hide_border=true&theme=default"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yukta9-11&show_icons=true&theme=default" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukta9-11&layout=compact&theme=default" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📱 Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/bhartiayukta/)  
-📫 Reach me at: **yuktabhartia2024@gmail.com**  
+- 🔎 **CharitySearch** – A distributed mobile & cloud-based app to search for U.S. charities using Android + Java Servlets + MongoDB.  
+  [GitHub Repo](https://github.com/CMU-Heinz-95702/distributed-systems-project-04-yukta9-11)
 
 ---
 
-_Always building, always learning._
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhartiayukta/)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:yuktabhartia2024@gmail.com)  
+
+
+---
+
+_“Code. Learn. Build. Repeat.”_
