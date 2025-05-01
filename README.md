@@ -13,7 +13,6 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e?style=flat&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -23,6 +22,7 @@
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
@@ -35,12 +35,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 
-### 🧠 Concepts
-![REST](https://img.shields.io/badge/REST%20API-%23000000?style=flat&logo=rest&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-%234285F4?style=flat&logo=architecture&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%23F34F29?style=flat&logo=githubactions&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%2300A99D?style=flat&logo=scrumalliance&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-%2332CD32?style=flat)
 
 ### 🤖 AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
